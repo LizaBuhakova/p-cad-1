@@ -1,0 +1,60 @@
+﻿PCAD Importer Log
+Project : LAB3.PrjPcb
+
+Section : C:\Users\lizab\Downloads\LAB3.sch
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 195
+        Warning - 1 : Skipping Token defaultPinDes On Line 203
+        Warning - 1 : Skipping Token defaultPinDes On Line 211
+        Warning - 1 : Skipping Token defaultPinDes On Line 234
+        Warning - 1 : Skipping Token defaultPinDes On Line 242
+        Warning - 1 : Skipping Token defaultPinDes On Line 297
+        Warning - 1 : Skipping Token defaultPinDes On Line 305
+        Warning - 1 : Skipping Token defaultPinDes On Line 321
+        Warning - 1 : Skipping Token defaultPinDes On Line 329
+        Warning - 1 : Skipping Token defaultPinDes On Line 346
+        Warning - 1 : Skipping Token defaultPinDes On Line 354
+        Warning - 1 : Skipping Token defaultPinDes On Line 376
+        Warning - 1 : Skipping Token defaultPinDes On Line 384
+        Warning - 1 : Skipping Token defaultPinDes On Line 392
+        Warning - 1 : Skipping Token defaultPinDes On Line 415
+        Warning - 1 : Skipping Token defaultPinDes On Line 423
+        Warning - 1 : Skipping Token defaultPinDes On Line 459
+        Warning - 1 : Skipping Token defaultPinDes On Line 474
+        Warning - 1 : Skipping Token defaultPinDes On Line 482
+        Warning - 1 : Skipping Token defaultPinDes On Line 503
+        Warning - 1 : Skipping Token defaultPinDes On Line 511
+        Warning - 1 : Skipping Token defaultPinDes On Line 519
+        Warning - 1 : Skipping Token gridDfns On Line 1010
+        Warning - 1 : Skipping Token refPointSize On Line 1032
+        Warning - 1 : Skipping Token infoPointSize On Line 1033
+        Warning - 1 : Skipping Token junctionSize On Line 1034
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1035
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1036
+        Warning - 1 : Skipping Token junctionSizePrint On Line 1037
+        Warning - 1 : Skipping Token PrintRegion On Line 1292
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 1296
+        Warning - 1 : Skipping Token ecoState On Line 1311
+        Warning - 1 : Skipping Token currentTextStyle On Line 1312
+        Warning - 1 : Skipping Token reportSettings On Line 1315
+    EndSection
+
+    Section : Generating SCH Library - LAB3.SchLib
+        Warning : Create component variant [K50_29_VARIANT_1] for component with original name [K50_29]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+        Warning : Add Power Object for Pin Name [GND] at location [9527.54mil : 1732.28mil]
+        Warning : Add Power Object for Pin Name [GND] at location [14330.705mil : 2913.38mil]
+        Warning : Add Power Object for Pin Name [VCC] at location [5669.28mil : 3622.04mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6692.9mil : 2992.12mil]
+        Warning : Add Power Object for Pin Name [GND] at location [13818.895mil : 2244.09mil]
+        Warning : Add Power Object for Pin Name [VCC] at location [14409.445mil : 1023.62mil]
+        Warning : Add Power Object for Pin Name [VCC] at location [14409.445mil : 3543.3mil]
+        Warning : Add Power Object for Pin Name [GND] at location [14409.445mil : 2913.38mil]
+        Warning : Add Power Object for Pin Name [VCC] at location [14409.445mil : 6023.61mil]
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection
